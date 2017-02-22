@@ -3,6 +3,7 @@
 
 *Real time generation of 16 32-by-32 images. Naive generation (left) vs. fast generation (right).*
 
+
 <p align="center">
   <img src="assets/speedup.gif" width="650" />
 </p>
