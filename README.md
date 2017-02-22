@@ -87,7 +87,7 @@ The core concepts detailed here will easily generalize for different modalities.
 ## Authors
 
 * [Prajit Ramachandran](https://github.com/PrajitR)
-* [Tom Le Paine](https://github.com/tomlepaine)
+* [Tom Le Paine](https://github.com/tomlepaine) 
 * [Pooya Khorrami](https://github.com/pkhorrami4)
 * [Mohammad Babaeizadeh](https://github.com/mbz)
 
