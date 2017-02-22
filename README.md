@@ -88,7 +88,7 @@ The core concepts detailed here will easily generalize for different modalities.
 
 * [Prajit Ramachandran](https://github.com/PrajitR)
 * [Tom Le Paine](https://github.com/tomlepaine) 
-* [Pooya Khorrami](https://github.com/pkhorrami4)
+* [Pooya Khorrami](https://github.com/pkhorrami4) 
 * [Mohammad Babaeizadeh](https://github.com/mbz)
 
 If you found this work useful, please cite our [paper](https://openreview.net/pdf?id=rkdF0ZNKl).
