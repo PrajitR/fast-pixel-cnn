@@ -91,12 +91,13 @@ The core concepts detailed here will easily generalize for different modalities.
 * [Pooya Khorrami](https://github.com/pkhorrami4) 
 * [Mohammad Babaeizadeh](https://github.com/mbz)
 
-If you found this work useful, please cite our [paper](https://openreview.net/pdf?id=rkdF0ZNKl).
+If you found this work useful, please cite our [paper](https://arxiv.org/abs/1704.06001).
 
 ```
-@article{ramachandran2017fastgeneration,
+@article{ramachandran2017fast,
   title={Fast Generation for Convolutional Autoregressive Models},
-  author={Ramachandran, Prajit and Paine, Tom Le and Khorrami, Pooya and Babaeizadeh, Mohammad and Chang, Shiyu and Zhang, Yang and Hasegawa-Johnson, Mark and Campbell, Roy and Huang, Thomas} 
+  author={Ramachandran, Prajit and Paine, Tom Le and Khorrami, Pooya and Babaeizadeh, Mohammad and Chang, Shiyu and Zhang, Yang and Hasegawa-Johnson, Mark A and Campbell, Roy H and Huang, Thomas S},
+  journal={arXiv preprint arXiv:1704.06001},
   year={2017}
 }
 ```
